@@ -1,2 +1,3 @@
 start
 make a function
+use a function
